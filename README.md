@@ -12,3 +12,5 @@ A modular, menu-driven **Student Management System** built using **Python** and 
 - **View:** Fetch and display all stored student records in real time.
 - **Update:** Modify existing student details using their Roll Number.
 - **Delete:** Remove student records safely from the database.
+## 📸 Output Preview
+![Student Management System Output](output.png)
